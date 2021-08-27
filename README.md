@@ -1,2 +1,5 @@
-# DIO - Desafio do Projeto GITHUB
-Desafio de projeto sobre GITHUB
+#  Desafio do Projeto GIT/GITHUB
+Repositório  criado pelo desafio do projeto
+
+## Links Úteis
+[Sintaxe Básica  Markdown](https://docs.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
