@@ -1,2 +1,2 @@
-# dia-desafio-github--primeiro-reps
+# DIO - Desafio do Projeto GITHUB
 Desafio de projeto sobre GITHUB
